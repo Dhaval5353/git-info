@@ -1,0 +1,31 @@
+1. Commit
+--> jyare aapde koy changes kariye ane e changes ne aapde locally k pachhi remotelly save karva hoy to aapde commit no use karsu...
+<git commit -m "your message">
+
+2. git log
+--> jyare aapde commit karyu ane pachhi eni log history check karvi hoy tyare aapde git log command no....
+<git log>
+
+3. git status
+-->git status lakhvathi aapde je changes thaya hoy e show karse ema je red color ma hase te commit nahi thay hoy ane je green color ma hase e commited hase...
+<git status>
+
+4. git add ["file name" OR "." --> (. ma e folder ma raheli all file consider karse)]
+--> jyare aapde files ne stage karvi hoy means perticular file ne j commit karavi tyare aapde e file ne stage ma nakhine commit kari devani...
+<git add (file name or .)>
+
+5. git remote 
+--> jyare aapde command propt ne sidhu j github ni repo sathe connect karvu hoy tyare aano upyog thase..
+<git remote add "url name(any name u want)" "url">
+
+6.git remote -v
+--> remotely connect thay gayeli repo ne jova mate aa use thase..
+<git remote -v>
+
+7. git push
+--> je kay changes aapde karya hoy ene remotely push karva mate push command no use thase...
+<git push "url name" "branch name">
+
+8. git branch
+--> navi branch create karva mate...
+<git branch "branch name">
